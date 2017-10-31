@@ -1,0 +1,1 @@
+This project is for testing Spring Boot application with Angular JS.
